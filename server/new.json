@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "650e023df8bf12a98694bd4a"
+    },
+    "new": [
+        {
+            "name": "btcinr",
+            "last": "2270528.0",
+            "buy": "2270527.0",
+            "sell": "2286756.0",
+            "volume": "2.31389",
+            "baseUnit": "btc"
+        },
+        {
+            "name": "xrpinr",
+            "last": "43.8308",
+            "buy": "43.8316",
+            "sell": "44.0",
+            "volume": "100010.3",
+            "baseUnit": "xrp"
+        },
+        {
+            "name": "ethinr",
+            "last": "136500.0",
+            "buy": "136246.6",
+            "sell": "137927.9",
+            "volume": "20.1523",
+            "baseUnit": "eth"
+        },
+        {
+            "name": "trxinr",
+            "last": "7.1212",
+            "buy": "7.1267",
+            "sell": "7.15",
+            "volume": "436416.0",
+            "baseUnit": "trx"
+        },
+        {
+            "name": "eosinr",
+            "last": "57.44",
+            "buy": "57.0",
+            "sell": "57.44",
+            "volume": "169.45",
+            "baseUnit": "eos"
+        },
+        {
+            "name": "zilinr",
+            "last": "1.67",
+            "buy": "1.64",
+            "sell": "1.67",
+            "volume": "94960.0",
+            "baseUnit": "zil"
+        },
+        {
+            "name": "batinr",
+            "last": "15.317",
+            "buy": "14.601",
+            "sell": "15.278",
+            "volume": "4021.55",
+            "baseUnit": "bat"
+        },
+        {
+            "name": "zrxinr",
+            "last": "15.76",
+            "buy": "15.76",
+            "sell": "16.35",
+            "volume": "6991.85",
+            "baseUnit": "zrx"
+        },
+        {
+            "name": "reqinr",
+            "last": "5.4298",
+            "buy": "5.43",
+            "sell": "5.574",
+            "volume": "560.0",
+            "baseUnit": "req"
+        },
+        {
+            "name": "nulsinr",
+            "last": "108.0",
+            "buy": "0.0",
+            "sell": "0.0",
+            "volume": "0.0",
+            "baseUnit": "nuls"
+        }
+    ],
+    "first": "first"
+}
