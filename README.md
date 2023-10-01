@@ -1,1 +1,3 @@
-https://github.com/homosapien14/Wazirx-master.git
+# Wazirx
+
+- it is a real-time trading platform 
