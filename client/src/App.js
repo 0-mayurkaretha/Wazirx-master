@@ -53,6 +53,8 @@ function App() {
           )}
         </tbody>
       </table>
+      <br/><br/>
+      <p>*test</p>
     </div>
   );
 }
