@@ -5,7 +5,7 @@ const app = express();
 const port = 4000;
 
 const url =
-  "mongodb+srv://rajakumarmahto61:1RgwRyRDSBekAu7I@wazirxdata.3psbww1.mongodb.net/?retryWrites=true&w=majority"; // Change this URL to your MongoDB server
+  `mongodb+srv://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@wazirxdata.3psbww1.mongodb.net/?retryWrites=true&w=majority`; // Change this URL to your MongoDB server
 const dbName = "wazirx-all";
 const collectionName = "tickers";
 app.use(cors());
